@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/-styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white"/> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </div>
 
----
+<br />
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -24,8 +24,6 @@
       src="https://img.shields.io/badge/yeonguk0517@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
----
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugyobppang&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugyobppang&layout=compact) -->
