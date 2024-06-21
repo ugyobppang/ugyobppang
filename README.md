@@ -16,7 +16,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[[https://www.notion.so/bcc64dda9ccd4142bb135ef27b2d8532](https://www.notion.so/225b9d54459c4b2fb5277d3c60c8f097)](https://highfalutin-wolf-1a5.notion.site/225b9d54459c4b2fb5277d3c60c8f097?pvs=4)">
+  <a href="https://www.notion.so/225b9d54459c4b2fb5277d3c60c8f097">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a href="yeonguk0517@gmail.com">
